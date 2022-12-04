@@ -1,0 +1,41 @@
+.nav{
+    font-family: 'Times New Roman', Times, serif;
+   
+    
+    border-radius: 10px;
+    float: right;
+    width: 35%;
+    background-color: black; 
+    
+}
+
+
+.weatherApi{
+    font-family: monospace;
+   
+    background-color: black;
+    color: blue;
+    border: 2px solid
+}
+.nav-heading1{
+    color: blue;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+}
+.nav-heading2{
+    animation: blinker 1s linear infinite;
+    text-align: center;
+    margin-bottom: 20px;
+    color: blue;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+@keyframes blinker{
+    50%{
+        opacity: 0;
+    }
+}

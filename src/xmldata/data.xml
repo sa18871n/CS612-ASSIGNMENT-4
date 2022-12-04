@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="ACSPIXMT.xsl" ?>
+
+<postsSum>
+   <postOne count='1'>
+       <post id='1'>
+           <Name>Chivalry</Name>
+           <Author>Manish Avasarala</Author>
+       </post>
+   </postOne>
+   <postTwo count='1'>
+       <post id='2'>
+           <Name>Houses of the Holy</Name>
+           <Artist>Led Zeppelin</Artist>
+       </post>
+    </postTwo>
+</postsSum>

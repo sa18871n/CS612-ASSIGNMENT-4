@@ -1,0 +1,35 @@
+.PostOne{
+    padding-bottom: 30px;
+    margin-left: 5px;
+    border-radius: 10px;
+    float: left;
+    width: 65%;
+    justify-content: left;
+    border: 2px solid ;
+    margin-right: 5px;
+    margin-bottom: 5PX;
+    
+}
+.PostOneTitle{
+    font-family: fantasy;
+    font-weight: lighter;
+}
+.PostOneImg{
+    
+    margin-bottom: 10px;
+    width: 100%;
+  
+}
+.PostOneBody{
+    line-height: 2em;
+    margin-bottom: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.PostOneDate{
+    margin-bottom: 10px;
+    font-size: large;
+}
+.PostOneAuthor{
+    margin-bottom: 10px;
+    font-size: large;
+}

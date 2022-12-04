@@ -1,0 +1,69 @@
+.post{
+    width: 65%;
+    border: 2px solid;
+}
+.post1{
+    width: 65%;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    justify-content: left;
+
+}
+.PostOneSummaryInfo{
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.PostOneSummaryImg{
+    margin-bottom: 10px;
+
+}
+.PostOneTitle{
+    color: blue;
+    margin-bottom: 10px;
+}
+.post2{
+    width: 65%;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    justify-content: left;
+
+}
+.PostTwoSummaryInfo{
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.PostTwoSummaryImg{
+    margin-bottom: 10px;
+
+}
+.PostTwoTitle{
+    color: blue;
+    margin-bottom: 10px;
+}
+
+.post3{
+    width: 65%;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    justify-content: left;
+
+}
+.PostThreeSummaryInfo{
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.PostThreeSummaryImg{
+    margin-bottom: 10px;
+
+}
+.PostThreeTitle{
+    color: blue;
+    margin-bottom: 10px;
+}
+
